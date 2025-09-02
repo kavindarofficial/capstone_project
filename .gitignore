@@ -57,9 +57,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Jupyter Notebook
-# Keep the actual notebooks but ignore checkpoints
-*.ipynb
+# # Jupyter Notebook
+# # Keep the actual notebooks but ignore checkpoints
+# *.ipynb
 
 # Environment variables
 .env
